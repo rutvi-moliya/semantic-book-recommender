@@ -1,0 +1,12 @@
+# Ignore datasets
+*.csv
+tagged_description.txt
+
+# Keep local assets only
+chroma_db/
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.idea/
